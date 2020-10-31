@@ -1,7 +1,7 @@
 {
   "name": "koromerzhin-me",
   "version": "1.0.0",
-  "description": "Templates pour la création d'un nouveau projet base",
+  "description": "Test github actions",
   "scripts": {
     "linter-markdown": "markdownlint",
     "licenses": "license-checker",
